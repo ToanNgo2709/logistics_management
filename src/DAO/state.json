@@ -1,0 +1,6 @@
+{
+	"state": "Binh dinh",
+	"city" : [{"name": "Quy Nhon"},
+				{"name": "Sai gon"}
+	]
+}
